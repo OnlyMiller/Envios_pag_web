@@ -12,27 +12,27 @@ const restaurantNames = {
 const menus = {
     "1": [
         { name: "Big Mac", price: 5, image: "images/foods/comida1a.jpg" },
-        { name: "McNuggets", price: 6, image: "images/foods/comida1b.jpg" }
+        { name: "McPollo", price: 6, image: "images/foods/comida1b.jpg" }
     ],
     "2": [
         { name: "Pepperoni Pizza", price: 12, image: "images/foods/comida2a.jpg" },
-        { name: "Margherita Pizza", price: 10, image: "images/foods/comida2b.jpg" }
+        { name: "Meat lovers", price: 10, image: "images/foods/comida2b.jpg" }
     ],
     "3": [
-        { name: "Tacos", price: 8, image: "images/foods/comida3a.jpg" },
-        { name: "Burritos", price: 9, image: "images/foods/comida3b.jpg" }
+        { name: "CrunchyWrap Supreme", price: 8, image: "images/foods/comida3a.jpg" },
+        { name: "Crispy chicken burrito", price: 9, image: "images/foods/comida3b.jpg" }
     ],
     "4": [
         { name: "Whopper", price: 7, image: "images/foods/comida4a.jpg" },
-        { name: "Chicken Fries", price: 5, image: "images/foods/comida4b.jpg" }
+        { name: "Cheeseburger", price: 5, image: "images/foods/comida4b.jpg" }
     ],
     "5": [
-        { name: "Footlong Sub", price: 9, image: "images/foods/comida5a.jpg" },
-        { name: "Veggie Sub", price: 8, image: "images/foods/comida5b.jpg" }
+        { name: "Teriyaki chicken", price: 9, image: "images/foods/comida5a.jpg" },
+        { name: "Italiano B.M.T", price: 8, image: "images/foods/comida5b.jpg" }
     ],
     "6": [
-        { name: "Classic Sub", price: 10, image: "images/foods/comida6a.jpg" },
-        { name: "Toasted Sub", price: 11, image: "images/foods/comida6b.jpg" }
+        { name: "Lobster", price: 10, image: "images/foods/comida6a.jpg" },
+        { name: "Prime rib", price: 11, image: "images/foods/comida6b.jpg" }
     ]
 };
 
